@@ -12,8 +12,8 @@ The algorithm reduces the number of transactions and displays the final neccessa
 
 The program currently runs in the terminal.
 
-TO DO
+### TO DO
 
-Make a GUI for this.
+* Make a GUI for this.
 
-Make a graphical representation of the transactions and the simplifiction of that.
+* Make a graphical representation of the transactions and the simplifiction of that.
